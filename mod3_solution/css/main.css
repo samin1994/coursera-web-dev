@@ -1,0 +1,38 @@
+#header-nav {
+    background-color: pink;
+}
+
+#nav-list a {
+    text-align: center;
+}
+
+.navbar-brand a{
+    color: black;
+    font-weight: bold;
+}
+
+#main-header {
+    text-align: center;
+    margin-top: -10px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+.col-xs-12 {
+    background-color: pink;
+}
+.col-xs-12 h4 {
+    font-weight: bold;
+    text-align: center;
+}
+
+@media (max-width:757px) {
+
+    .row{
+        margin-right: 20px !important;
+        margin-left: 20px !important;
+        background-color: gray !important;
+    
+    }
+
+}
